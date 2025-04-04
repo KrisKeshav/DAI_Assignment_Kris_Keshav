@@ -18,6 +18,3 @@ This project explores different sampling techniques to handle class imbalance in
 
 ## 📊 Model Performance
 The best technique was **Class Weights**, achieving the highest **F1 Score** and balanced **AUC**.
-
-## 🔗 Repository Link
-[Click Here](https://github.com/YOUR_USERNAME/imbalanced-dataset-sampling)
