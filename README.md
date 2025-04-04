@@ -4,7 +4,7 @@
 This project explores different sampling techniques to handle class imbalance in the **Medical Appointment No Shows** dataset.
 
 ## 📂 Files Included
-- `imbalanced_sampling.ipynb` - Jupyter Notebook with the implementation.
+- `dai-assignment-23115068-kris.ipynb` - Jupyter Notebook with the implementation.
 - `KaggleV2-May-2016.csv` - Dataset used for training.
 - `results.csv` - Model performance comparison.
 - `README.md` - Project documentation.
